@@ -1,7 +1,6 @@
 {
-    "Sales Data": [
+    "salesData": [
       {
-        "OrderDate": 43106,
         "Region": "East",
         "Manager": "Martha",
         "SalesMan": "Alexander",
@@ -11,7 +10,6 @@
         "Sale_amt": 113810
       },
       {
-        "OrderDate": 43123,
         "Region": "Central",
         "Manager": "Hermann",
         "SalesMan": "Shelli",
@@ -21,7 +19,6 @@
         "Sale_amt": 25000
       },
       {
-        "OrderDate": 43140,
         "Region": "Central",
         "Manager": "Hermann",
         "SalesMan": "Luis",
@@ -31,7 +28,6 @@
         "Sale_amt": 43128
       },
       {
-        "OrderDate": 43157,
         "Region": "Central",
         "Manager": "Timothy",
         "SalesMan": "David",
@@ -41,7 +37,6 @@
         "Sale_amt": 6075
       },
       {
-        "OrderDate": 43174,
         "Region": "West",
         "Manager": "Timothy",
         "SalesMan": "Stephen",
@@ -51,7 +46,6 @@
         "Sale_amt": 67088
       },
       {
-        "OrderDate": 43191,
         "Region": "East",
         "Manager": "Martha",
         "SalesMan": "Alexander",
@@ -61,7 +55,6 @@
         "Sale_amt": 30000
       },
       {
-        "OrderDate": 43208,
         "Region": "Central",
         "Manager": "Martha",
         "SalesMan": "Steven",
@@ -71,7 +64,6 @@
         "Sale_amt": 89850
       },
       {
-        "OrderDate": 43225,
         "Region": "Central",
         "Manager": "Hermann",
         "SalesMan": "Luis",
@@ -81,7 +73,6 @@
         "Sale_amt": 107820
       },
       {
-        "OrderDate": 43242,
         "Region": "West",
         "Manager": "Douglas",
         "SalesMan": "Michael",
@@ -91,7 +82,6 @@
         "Sale_amt": 38336
       },
       {
-        "OrderDate": 43259,
         "Region": "East",
         "Manager": "Martha",
         "SalesMan": "Alexander",
@@ -101,7 +91,6 @@
         "Sale_amt": 30000
       },
       {
-        "OrderDate": 43276,
         "Region": "Central",
         "Manager": "Hermann",
         "SalesMan": "Sigal",
@@ -111,7 +100,6 @@
         "Sale_amt": 107820
       },
       {
-        "OrderDate": 43293,
         "Region": "East",
         "Manager": "Martha",
         "SalesMan": "Diana",
@@ -121,7 +109,6 @@
         "Sale_amt": 14500
       },
       {
-        "OrderDate": 43310,
         "Region": "East",
         "Manager": "Douglas",
         "SalesMan": "Karen",
@@ -131,7 +118,6 @@
         "Sale_amt": 40500
       },
       {
-        "OrderDate": 43327,
         "Region": "East",
         "Manager": "Martha",
         "SalesMan": "Alexander",
@@ -141,7 +127,6 @@
         "Sale_amt": 41930
       },
       {
-        "OrderDate": 43344,
         "Region": "Central",
         "Manager": "Douglas",
         "SalesMan": "John",
@@ -151,7 +136,6 @@
         "Sale_amt": 250
       },
       {
-        "OrderDate": 43361,
         "Region": "East",
         "Manager": "Martha",
         "SalesMan": "Alexander",
@@ -161,7 +145,6 @@
         "Sale_amt": 936
       },
       {
-        "OrderDate": 43378,
         "Region": "Central",
         "Manager": "Hermann",
         "SalesMan": "Sigal",
@@ -171,7 +154,6 @@
         "Sale_amt": 14000
       },
       {
-        "OrderDate": 43395,
         "Region": "East",
         "Manager": "Martha",
         "SalesMan": "Alexander",
@@ -181,7 +163,6 @@
         "Sale_amt": 14400
       },
       {
-        "OrderDate": 43412,
         "Region": "East",
         "Manager": "Douglas",
         "SalesMan": "Karen",
@@ -191,7 +172,6 @@
         "Sale_amt": 3375
       },
       {
-        "OrderDate": 43429,
         "Region": "Central",
         "Manager": "Hermann",
         "SalesMan": "Shelli",
@@ -201,7 +181,6 @@
         "Sale_amt": 5616
       },
       {
-        "OrderDate": 43446,
         "Region": "Central",
         "Manager": "Douglas",
         "SalesMan": "John",
@@ -211,7 +190,6 @@
         "Sale_amt": 80266
       },
       {
-        "OrderDate": 43463,
         "Region": "East",
         "Manager": "Douglas",
         "SalesMan": "Karen",
@@ -221,7 +199,6 @@
         "Sale_amt": 4329
       },
       {
-        "OrderDate": 43480,
         "Region": "Central",
         "Manager": "Timothy",
         "SalesMan": "David",
@@ -231,7 +208,6 @@
         "Sale_amt": 23000
       },
       {
-        "OrderDate": 43497,
         "Region": "Central",
         "Manager": "Douglas",
         "SalesMan": "John",
@@ -241,7 +217,6 @@
         "Sale_amt": 43500
       },
       {
-        "OrderDate": 43514,
         "Region": "East",
         "Manager": "Martha",
         "SalesMan": "Alexander",
@@ -251,7 +226,6 @@
         "Sale_amt": 2000
       },
       {
-        "OrderDate": 43531,
         "Region": "West",
         "Manager": "Timothy",
         "SalesMan": "Stephen",
@@ -261,7 +235,6 @@
         "Sale_amt": 3500
       },
       {
-        "OrderDate": 43548,
         "Region": "Central",
         "Manager": "Hermann",
         "SalesMan": "Luis",
@@ -271,7 +244,6 @@
         "Sale_amt": 2925
       },
       {
-        "OrderDate": 43565,
         "Region": "Central",
         "Manager": "Martha",
         "SalesMan": "Steven",
@@ -281,7 +253,6 @@
         "Sale_amt": 79068
       },
       {
-        "OrderDate": 43582,
         "Region": "East",
         "Manager": "Martha",
         "SalesMan": "Diana",
@@ -291,7 +262,6 @@
         "Sale_amt": 21600
       },
       {
-        "OrderDate": 43599,
         "Region": "Central",
         "Manager": "Timothy",
         "SalesMan": "David",
@@ -301,7 +271,6 @@
         "Sale_amt": 63494
       },
       {
-        "OrderDate": 43616,
         "Region": "Central",
         "Manager": "Timothy",
         "SalesMan": "David",
@@ -311,7 +280,6 @@
         "Sale_amt": 40000
       },
       {
-        "OrderDate": 43633,
         "Region": "Central",
         "Manager": "Hermann",
         "SalesMan": "Shelli",
@@ -321,7 +289,6 @@
         "Sale_amt": 625
       },
       {
-        "OrderDate": 43650,
         "Region": "East",
         "Manager": "Martha",
         "SalesMan": "Alexander",
@@ -331,7 +298,6 @@
         "Sale_amt": 3627
       },
       {
-        "OrderDate": 43667,
         "Region": "Central",
         "Manager": "Hermann",
         "SalesMan": "Sigal",
@@ -341,7 +307,6 @@
         "Sale_amt": 3217.5
       },
       {
-        "OrderDate": 43684,
         "Region": "Central",
         "Manager": "Hermann",
         "SalesMan": "Shelli",
@@ -351,7 +316,6 @@
         "Sale_amt": 2457
       },
       {
-        "OrderDate": 43701,
         "Region": "West",
         "Manager": "Timothy",
         "SalesMan": "Stephen",
@@ -361,7 +325,6 @@
         "Sale_amt": 375
       },
       {
-        "OrderDate": 43718,
         "Region": "Central",
         "Manager": "Timothy",
         "SalesMan": "David",
@@ -371,7 +334,6 @@
         "Sale_amt": 8386
       },
       {
-        "OrderDate": 43735,
         "Region": "West",
         "Manager": "Timothy",
         "SalesMan": "Stephen",
@@ -381,7 +343,6 @@
         "Sale_amt": 17100
       },
       {
-        "OrderDate": 43752,
         "Region": "West",
         "Manager": "Douglas",
         "SalesMan": "Michael",
@@ -391,7 +352,6 @@
         "Sale_amt": 28500
       },
       {
-        "OrderDate": 43769,
         "Region": "Central",
         "Manager": "Martha",
         "SalesMan": "Steven",
@@ -401,7 +361,6 @@
         "Sale_amt": 16772
       },
       {
-        "OrderDate": 43786,
         "Region": "Central",
         "Manager": "Hermann",
         "SalesMan": "Luis",
@@ -411,7 +370,6 @@
         "Sale_amt": 5500
       },
       {
-        "OrderDate": 43803,
         "Region": "Central",
         "Manager": "Hermann",
         "SalesMan": "Luis",
@@ -421,7 +379,6 @@
         "Sale_amt": 47000
       },
       {
-        "OrderDate": 43820,
         "Region": "Central",
         "Manager": "Martha",
         "SalesMan": "Steven",
