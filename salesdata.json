@@ -1,876 +1,434 @@
 {
     "Sales Data": [
-        {
-            "OrderDate": 43106,
-            "Region": "East",
-            "Manager": "Martha",
-            "SalesMan": "Alexander",
-            "Item": "Television",
-            "Units": 95,
-            "Unit_price": 1198,
-            "Sale_amt": 113810
-        },
-        {
-            "OrderDate": 43123,
-            "Region": "Central",
-            "Manager": "Hermann",
-            "SalesMan": "Shelli",
-            "Item": "Home Theater",
-            "Units": 50,
-            "Unit_price": 500,
-            "Sale_amt": 25000
-        },
-        {
-            "OrderDate": 43140,
-            "Region": "Central",
-            "Manager": "Hermann",
-            "SalesMan": "Luis",
-            "Item": "Television",
-            "Units": 36,
-            "Unit_price": 1198,
-            "Sale_amt": 43128
-        },
-        {
-            "OrderDate": 43157,
-            "Region": "Central",
-            "Manager": "Timothy",
-            "SalesMan": "David",
-            "Item": "Cell Phone",
-            "Units": 27,
-            "Unit_price": 225,
-            "Sale_amt": 6075
-        },
-        {
-            "OrderDate": 43174,
-            "Region": "West",
-            "Manager": "Timothy",
-            "SalesMan": "Stephen",
-            "Item": "Television",
-            "Units": 56,
-            "Unit_price": 1198,
-            "Sale_amt": 67088
-        },
-        {
-            "OrderDate": 43191,
-            "Region": "East",
-            "Manager": "Martha",
-            "SalesMan": "Alexander",
-            "Item": "Home Theater",
-            "Units": 60,
-            "Unit_price": 500,
-            "Sale_amt": 30000
-        },
-        {
-            "OrderDate": 43208,
-            "Region": "Central",
-            "Manager": "Martha",
-            "SalesMan": "Steven",
-            "Item": "Television",
-            "Units": 75,
-            "Unit_price": 1198,
-            "Sale_amt": 89850
-        },
-        {
-            "OrderDate": 43225,
-            "Region": "Central",
-            "Manager": "Hermann",
-            "SalesMan": "Luis",
-            "Item": "Television",
-            "Units": 90,
-            "Unit_price": 1198,
-            "Sale_amt": 107820
-        },
-        {
-            "OrderDate": 43242,
-            "Region": "West",
-            "Manager": "Douglas",
-            "SalesMan": "Michael",
-            "Item": "Television",
-            "Units": 32,
-            "Unit_price": 1198,
-            "Sale_amt": 38336
-        },
-        {
-            "OrderDate": 43259,
-            "Region": "East",
-            "Manager": "Martha",
-            "SalesMan": "Alexander",
-            "Item": "Home Theater",
-            "Units": 60,
-            "Unit_price": 500,
-            "Sale_amt": 30000
-        },
-        {
-            "OrderDate": 43276,
-            "Region": "Central",
-            "Manager": "Hermann",
-            "SalesMan": "Sigal",
-            "Item": "Television",
-            "Units": 90,
-            "Unit_price": 1198,
-            "Sale_amt": 107820
-        },
-        {
-            "OrderDate": 43293,
-            "Region": "East",
-            "Manager": "Martha",
-            "SalesMan": "Diana",
-            "Item": "Home Theater",
-            "Units": 29,
-            "Unit_price": 500,
-            "Sale_amt": 14500
-        },
-        {
-            "OrderDate": 43310,
-            "Region": "East",
-            "Manager": "Douglas",
-            "SalesMan": "Karen",
-            "Item": "Home Theater",
-            "Units": 81,
-            "Unit_price": 500,
-            "Sale_amt": 40500
-        },
-        {
-            "OrderDate": 43327,
-            "Region": "East",
-            "Manager": "Martha",
-            "SalesMan": "Alexander",
-            "Item": "Television",
-            "Units": 35,
-            "Unit_price": 1198,
-            "Sale_amt": 41930
-        },
-        {
-            "OrderDate": 43344,
-            "Region": "Central",
-            "Manager": "Douglas",
-            "SalesMan": "John",
-            "Item": "Desk",
-            "Units": 2,
-            "Unit_price": 125,
-            "Sale_amt": 250
-        },
-        {
-            "OrderDate": 43361,
-            "Region": "East",
-            "Manager": "Martha",
-            "SalesMan": "Alexander",
-            "Item": "Video Games",
-            "Units": 16,
-            "Unit_price": 58.5,
-            "Sale_amt": 936
-        },
-        {
-            "OrderDate": 43378,
-            "Region": "Central",
-            "Manager": "Hermann",
-            "SalesMan": "Sigal",
-            "Item": "Home Theater",
-            "Units": 28,
-            "Unit_price": 500,
-            "Sale_amt": 14000
-        },
-        {
-            "OrderDate": 43395,
-            "Region": "East",
-            "Manager": "Martha",
-            "SalesMan": "Alexander",
-            "Item": "Cell Phone",
-            "Units": 64,
-            "Unit_price": 225,
-            "Sale_amt": 14400
-        },
-        {
-            "OrderDate": 43412,
-            "Region": "East",
-            "Manager": "Douglas",
-            "SalesMan": "Karen",
-            "Item": "Cell Phone",
-            "Units": 15,
-            "Unit_price": 225,
-            "Sale_amt": 3375
-        },
-        {
-            "OrderDate": 43429,
-            "Region": "Central",
-            "Manager": "Hermann",
-            "SalesMan": "Shelli",
-            "Item": "Video Games",
-            "Units": 96,
-            "Unit_price": 58.5,
-            "Sale_amt": 5616
-        },
-        {
-            "OrderDate": 43446,
-            "Region": "Central",
-            "Manager": "Douglas",
-            "SalesMan": "John",
-            "Item": "Television",
-            "Units": 67,
-            "Unit_price": 1198,
-            "Sale_amt": 80266
-        },
-        {
-            "OrderDate": 43463,
-            "Region": "East",
-            "Manager": "Douglas",
-            "SalesMan": "Karen",
-            "Item": "Video Games",
-            "Units": 74,
-            "Unit_price": 58.5,
-            "Sale_amt": 4329
-        },
-        {
-            "OrderDate": 43480,
-            "Region": "Central",
-            "Manager": "Timothy",
-            "SalesMan": "David",
-            "Item": "Home Theater",
-            "Units": 46,
-            "Unit_price": 500,
-            "Sale_amt": 23000
-        },
-        {
-            "OrderDate": 43497,
-            "Region": "Central",
-            "Manager": "Douglas",
-            "SalesMan": "John",
-            "Item": "Home Theater",
-            "Units": 87,
-            "Unit_price": 500,
-            "Sale_amt": 43500
-        },
-        {
-            "OrderDate": 43514,
-            "Region": "East",
-            "Manager": "Martha",
-            "SalesMan": "Alexander",
-            "Item": "Home Theater",
-            "Units": 4,
-            "Unit_price": 500,
-            "Sale_amt": 2000
-        },
-        {
-            "OrderDate": 43531,
-            "Region": "West",
-            "Manager": "Timothy",
-            "SalesMan": "Stephen",
-            "Item": "Home Theater",
-            "Units": 7,
-            "Unit_price": 500,
-            "Sale_amt": 3500
-        },
-        {
-            "OrderDate": 43548,
-            "Region": "Central",
-            "Manager": "Hermann",
-            "SalesMan": "Luis",
-            "Item": "Video Games",
-            "Units": 50,
-            "Unit_price": 58.5,
-            "Sale_amt": 2925
-        },
-        {
-            "OrderDate": 43565,
-            "Region": "Central",
-            "Manager": "Martha",
-            "SalesMan": "Steven",
-            "Item": "Television",
-            "Units": 66,
-            "Unit_price": 1198,
-            "Sale_amt": 79068
-        },
-        {
-            "OrderDate": 43582,
-            "Region": "East",
-            "Manager": "Martha",
-            "SalesMan": "Diana",
-            "Item": "Cell Phone",
-            "Units": 96,
-            "Unit_price": 225,
-            "Sale_amt": 21600
-        },
-        {
-            "OrderDate": 43599,
-            "Region": "Central",
-            "Manager": "Timothy",
-            "SalesMan": "David",
-            "Item": "Television",
-            "Units": 53,
-            "Unit_price": 1198,
-            "Sale_amt": 63494
-        },
-        {
-            "OrderDate": 43616,
-            "Region": "Central",
-            "Manager": "Timothy",
-            "SalesMan": "David",
-            "Item": "Home Theater",
-            "Units": 80,
-            "Unit_price": 500,
-            "Sale_amt": 40000
-        },
-        {
-            "OrderDate": 43633,
-            "Region": "Central",
-            "Manager": "Hermann",
-            "SalesMan": "Shelli",
-            "Item": "Desk",
-            "Units": 5,
-            "Unit_price": 125,
-            "Sale_amt": 625
-        },
-        {
-            "OrderDate": 43650,
-            "Region": "East",
-            "Manager": "Martha",
-            "SalesMan": "Alexander",
-            "Item": "Video Games",
-            "Units": 62,
-            "Unit_price": 58.5,
-            "Sale_amt": 3627
-        },
-        {
-            "OrderDate": 43667,
-            "Region": "Central",
-            "Manager": "Hermann",
-            "SalesMan": "Sigal",
-            "Item": "Video Games",
-            "Units": 55,
-            "Unit_price": 58.5,
-            "Sale_amt": 3217.5
-        },
-        {
-            "OrderDate": 43684,
-            "Region": "Central",
-            "Manager": "Hermann",
-            "SalesMan": "Shelli",
-            "Item": "Video Games",
-            "Units": 42,
-            "Unit_price": 58.5,
-            "Sale_amt": 2457
-        },
-        {
-            "OrderDate": 43701,
-            "Region": "West",
-            "Manager": "Timothy",
-            "SalesMan": "Stephen",
-            "Item": "Desk",
-            "Units": 3,
-            "Unit_price": 125,
-            "Sale_amt": 375
-        },
-        {
-            "OrderDate": 43718,
-            "Region": "Central",
-            "Manager": "Timothy",
-            "SalesMan": "David",
-            "Item": "Television",
-            "Units": 7,
-            "Unit_price": 1198,
-            "Sale_amt": 8386
-        },
-        {
-            "OrderDate": 43735,
-            "Region": "West",
-            "Manager": "Timothy",
-            "SalesMan": "Stephen",
-            "Item": "Cell Phone",
-            "Units": 76,
-            "Unit_price": 225,
-            "Sale_amt": 17100
-        },
-        {
-            "OrderDate": 43752,
-            "Region": "West",
-            "Manager": "Douglas",
-            "SalesMan": "Michael",
-            "Item": "Home Theater",
-            "Units": 57,
-            "Unit_price": 500,
-            "Sale_amt": 28500
-        },
-        {
-            "OrderDate": 43769,
-            "Region": "Central",
-            "Manager": "Martha",
-            "SalesMan": "Steven",
-            "Item": "Television",
-            "Units": 14,
-            "Unit_price": 1198,
-            "Sale_amt": 16772
-        },
-        {
-            "OrderDate": 43786,
-            "Region": "Central",
-            "Manager": "Hermann",
-            "SalesMan": "Luis",
-            "Item": "Home Theater",
-            "Units": 11,
-            "Unit_price": 500,
-            "Sale_amt": 5500
-        },
-        {
-            "OrderDate": 43803,
-            "Region": "Central",
-            "Manager": "Hermann",
-            "SalesMan": "Luis",
-            "Item": "Home Theater",
-            "Units": 94,
-            "Unit_price": 500,
-            "Sale_amt": 47000
-        },
-        {
-            "OrderDate": 43820,
-            "Region": "Central",
-            "Manager": "Martha",
-            "SalesMan": "Steven",
-            "Item": "Home Theater",
-            "Units": 28,
-            "Unit_price": 500,
-            "Sale_amt": 14000
-        },
-        {
-            "Units": 278,
-            "Unit_price": 1125,
-            "Sale_amt": 62550
-        },
-        {
-            "Units": 34.75,
-            "Unit_price": 140.625,
-            "Sale_amt": 7818.75
-        }
-    ],
-    "SaleData": [
-        {
-            "OrderDate": 43106,
-            "Region": "East",
-            "Manager": "Martha",
-            "SalesMan": "Alexander",
-            "Item": "Television",
-            "Units": 95,
-            "Unit_price": 1198,
-            "Sale_amt": 113810
-        },
-        {
-            "OrderDate": 43123,
-            "Region": "Central",
-            "Manager": "Hermann",
-            "SalesMan": "Shelli",
-            "Item": "Home Theater",
-            "Units": 50,
-            "Unit_price": 500,
-            "Sale_amt": 25000
-        },
-        {
-            "OrderDate": 43140,
-            "Region": "Central",
-            "Manager": "Hermann",
-            "SalesMan": "Luis",
-            "Item": "Television",
-            "Units": 36,
-            "Unit_price": 1198,
-            "Sale_amt": 43128
-        },
-        {
-            "OrderDate": 43157,
-            "Region": "Central",
-            "Manager": "Timothy",
-            "SalesMan": "David",
-            "Item": "Cell Phone",
-            "Units": 27,
-            "Unit_price": 225,
-            "Sale_amt": 6075
-        },
-        {
-            "OrderDate": 43174,
-            "Region": "West",
-            "Manager": "Timothy",
-            "SalesMan": "Stephen",
-            "Item": "Television",
-            "Units": 56,
-            "Unit_price": 1198,
-            "Sale_amt": 67088
-        },
-        {
-            "OrderDate": 43191,
-            "Region": "East",
-            "Manager": "Martha",
-            "SalesMan": "Alexander",
-            "Item": "Home Theater",
-            "Units": 60,
-            "Unit_price": 500,
-            "Sale_amt": 30000
-        },
-        {
-            "OrderDate": 43208,
-            "Region": "Central",
-            "Manager": "Martha",
-            "SalesMan": "Steven",
-            "Item": "Television",
-            "Units": 75,
-            "Unit_price": 1198,
-            "Sale_amt": 89850
-        },
-        {
-            "OrderDate": 43225,
-            "Region": "Central",
-            "Manager": "Hermann",
-            "SalesMan": "Luis",
-            "Item": "Television",
-            "Units": 90,
-            "Unit_price": 1198,
-            "Sale_amt": 107820
-        },
-        {
-            "OrderDate": 43242,
-            "Region": "West",
-            "Manager": "Douglas",
-            "SalesMan": "Michael",
-            "Item": "Television",
-            "Units": 32,
-            "Unit_price": 1198,
-            "Sale_amt": 38336
-        },
-        {
-            "OrderDate": 43259,
-            "Region": "East",
-            "Manager": "Martha",
-            "SalesMan": "Alexander",
-            "Item": "Home Theater",
-            "Units": 60,
-            "Unit_price": 500,
-            "Sale_amt": 30000
-        },
-        {
-            "OrderDate": 43276,
-            "Region": "Central",
-            "Manager": "Hermann",
-            "SalesMan": "Sigal",
-            "Item": "Television",
-            "Units": 90,
-            "Unit_price": 1198,
-            "Sale_amt": 107820
-        },
-        {
-            "OrderDate": 43293,
-            "Region": "East",
-            "Manager": "Martha",
-            "SalesMan": "Diana",
-            "Item": "Home Theater",
-            "Units": 29,
-            "Unit_price": 500,
-            "Sale_amt": 14500
-        },
-        {
-            "OrderDate": 43310,
-            "Region": "East",
-            "Manager": "Douglas",
-            "SalesMan": "Karen",
-            "Item": "Home Theater",
-            "Units": 81,
-            "Unit_price": 500,
-            "Sale_amt": 40500
-        },
-        {
-            "OrderDate": 43327,
-            "Region": "East",
-            "Manager": "Martha",
-            "SalesMan": "Alexander",
-            "Item": "Television",
-            "Units": 35,
-            "Unit_price": 1198,
-            "Sale_amt": 41930
-        },
-        {
-            "OrderDate": 43344,
-            "Region": "Central",
-            "Manager": "Douglas",
-            "SalesMan": "John",
-            "Item": "Desk",
-            "Units": 2,
-            "Unit_price": 125,
-            "Sale_amt": 250
-        },
-        {
-            "OrderDate": 43361,
-            "Region": "East",
-            "Manager": "Martha",
-            "SalesMan": "Alexander",
-            "Item": "Video Games",
-            "Units": 16,
-            "Unit_price": 58.5,
-            "Sale_amt": 936
-        },
-        {
-            "OrderDate": 43378,
-            "Region": "Central",
-            "Manager": "Hermann",
-            "SalesMan": "Sigal",
-            "Item": "Home Theater",
-            "Units": 28,
-            "Unit_price": 500,
-            "Sale_amt": 14000
-        },
-        {
-            "OrderDate": 43395,
-            "Region": "East",
-            "Manager": "Martha",
-            "SalesMan": "Alexander",
-            "Item": "Cell Phone",
-            "Units": 64,
-            "Unit_price": 225,
-            "Sale_amt": 14400
-        },
-        {
-            "OrderDate": 43412,
-            "Region": "East",
-            "Manager": "Douglas",
-            "SalesMan": "Karen",
-            "Item": "Cell Phone",
-            "Units": 15,
-            "Unit_price": 225,
-            "Sale_amt": 3375
-        },
-        {
-            "OrderDate": 43429,
-            "Region": "Central",
-            "Manager": "Hermann",
-            "SalesMan": "Shelli",
-            "Item": "Video Games",
-            "Units": 96,
-            "Unit_price": 58.5,
-            "Sale_amt": 5616
-        },
-        {
-            "OrderDate": 43446,
-            "Region": "Central",
-            "Manager": "Douglas",
-            "SalesMan": "John",
-            "Item": "Television",
-            "Units": 67,
-            "Unit_price": 1198,
-            "Sale_amt": 80266
-        },
-        {
-            "OrderDate": 43463,
-            "Region": "East",
-            "Manager": "Douglas",
-            "SalesMan": "Karen",
-            "Item": "Video Games",
-            "Units": 74,
-            "Unit_price": 58.5,
-            "Sale_amt": 4329
-        },
-        {
-            "OrderDate": 43480,
-            "Region": "Central",
-            "Manager": "Timothy",
-            "SalesMan": "David",
-            "Item": "Home Theater",
-            "Units": 46,
-            "Unit_price": 500,
-            "Sale_amt": 23000
-        },
-        {
-            "OrderDate": 43497,
-            "Region": "Central",
-            "Manager": "Douglas",
-            "SalesMan": "John",
-            "Item": "Home Theater",
-            "Units": 87,
-            "Unit_price": 500,
-            "Sale_amt": 43500
-        },
-        {
-            "OrderDate": 43514,
-            "Region": "East",
-            "Manager": "Martha",
-            "SalesMan": "Alexander",
-            "Item": "Home Theater",
-            "Units": 4,
-            "Unit_price": 500,
-            "Sale_amt": 2000
-        },
-        {
-            "OrderDate": 43531,
-            "Region": "West",
-            "Manager": "Timothy",
-            "SalesMan": "Stephen",
-            "Item": "Home Theater",
-            "Units": 7,
-            "Unit_price": 500,
-            "Sale_amt": 3500
-        },
-        {
-            "OrderDate": 43548,
-            "Region": "Central",
-            "Manager": "Hermann",
-            "SalesMan": "Luis",
-            "Item": "Video Games",
-            "Units": 50,
-            "Unit_price": 58.5,
-            "Sale_amt": 2925
-        },
-        {
-            "OrderDate": 43565,
-            "Region": "Central",
-            "Manager": "Martha",
-            "SalesMan": "Steven",
-            "Item": "Television",
-            "Units": 66,
-            "Unit_price": 1198,
-            "Sale_amt": 79068
-        },
-        {
-            "OrderDate": 43582,
-            "Region": "East",
-            "Manager": "Martha",
-            "SalesMan": "Diana",
-            "Item": "Cell Phone",
-            "Units": 96,
-            "Unit_price": 225,
-            "Sale_amt": 21600
-        },
-        {
-            "OrderDate": 43599,
-            "Region": "Central",
-            "Manager": "Timothy",
-            "SalesMan": "David",
-            "Item": "Television",
-            "Units": 53,
-            "Unit_price": 1198,
-            "Sale_amt": 63494
-        },
-        {
-            "OrderDate": 43616,
-            "Region": "Central",
-            "Manager": "Timothy",
-            "SalesMan": "David",
-            "Item": "Home Theater",
-            "Units": 80,
-            "Unit_price": 500,
-            "Sale_amt": 40000
-        },
-        {
-            "OrderDate": 43633,
-            "Region": "Central",
-            "Manager": "Hermann",
-            "SalesMan": "Shelli",
-            "Item": "Desk",
-            "Units": 5,
-            "Unit_price": 125,
-            "Sale_amt": 625
-        },
-        {
-            "OrderDate": 43650,
-            "Region": "East",
-            "Manager": "Martha",
-            "SalesMan": "Alexander",
-            "Item": "Video Games",
-            "Units": 62,
-            "Unit_price": 58.5,
-            "Sale_amt": 3627
-        },
-        {
-            "OrderDate": 43667,
-            "Region": "Central",
-            "Manager": "Hermann",
-            "SalesMan": "Sigal",
-            "Item": "Video Games",
-            "Units": 55,
-            "Unit_price": 58.5,
-            "Sale_amt": 3217.5
-        },
-        {
-            "OrderDate": 43684,
-            "Region": "Central",
-            "Manager": "Hermann",
-            "SalesMan": "Shelli",
-            "Item": "Video Games",
-            "Units": 42,
-            "Unit_price": 58.5,
-            "Sale_amt": 2457
-        },
-        {
-            "OrderDate": 43701,
-            "Region": "West",
-            "Manager": "Timothy",
-            "SalesMan": "Stephen",
-            "Item": "Desk",
-            "Units": 3,
-            "Unit_price": 125,
-            "Sale_amt": 375
-        },
-        {
-            "OrderDate": 43718,
-            "Region": "Central",
-            "Manager": "Timothy",
-            "SalesMan": "David",
-            "Item": "Television",
-            "Units": 7,
-            "Unit_price": 1198,
-            "Sale_amt": 8386
-        },
-        {
-            "OrderDate": 43735,
-            "Region": "West",
-            "Manager": "Timothy",
-            "SalesMan": "Stephen",
-            "Item": "Cell Phone",
-            "Units": 76,
-            "Unit_price": 225,
-            "Sale_amt": 17100
-        },
-        {
-            "OrderDate": 43752,
-            "Region": "West",
-            "Manager": "Douglas",
-            "SalesMan": "Michael",
-            "Item": "Home Theater",
-            "Units": 57,
-            "Unit_price": 500,
-            "Sale_amt": 28500
-        },
-        {
-            "OrderDate": 43769,
-            "Region": "Central",
-            "Manager": "Martha",
-            "SalesMan": "Steven",
-            "Item": "Television",
-            "Units": 14,
-            "Unit_price": 1198,
-            "Sale_amt": 16772
-        },
-        {
-            "OrderDate": 43786,
-            "Region": "Central",
-            "Manager": "Hermann",
-            "SalesMan": "Luis",
-            "Item": "Home Theater",
-            "Units": 11,
-            "Unit_price": 500,
-            "Sale_amt": 5500
-        },
-        {
-            "OrderDate": 43803,
-            "Region": "Central",
-            "Manager": "Hermann",
-            "SalesMan": "Luis",
-            "Item": "Home Theater",
-            "Units": 94,
-            "Unit_price": 500,
-            "Sale_amt": 47000
-        },
-        {
-            "OrderDate": 43820,
-            "Region": "Central",
-            "Manager": "Martha",
-            "SalesMan": "Steven",
-            "Item": "Home Theater",
-            "Units": 28,
-            "Unit_price": 500,
-            "Sale_amt": 14000
-        }
+      {
+        "OrderDate": 43106,
+        "Region": "East",
+        "Manager": "Martha",
+        "SalesMan": "Alexander",
+        "Item": "Television",
+        "Units": 95,
+        "Unit_price": 1198,
+        "Sale_amt": 113810
+      },
+      {
+        "OrderDate": 43123,
+        "Region": "Central",
+        "Manager": "Hermann",
+        "SalesMan": "Shelli",
+        "Item": "Home Theater",
+        "Units": 50,
+        "Unit_price": 500,
+        "Sale_amt": 25000
+      },
+      {
+        "OrderDate": 43140,
+        "Region": "Central",
+        "Manager": "Hermann",
+        "SalesMan": "Luis",
+        "Item": "Television",
+        "Units": 36,
+        "Unit_price": 1198,
+        "Sale_amt": 43128
+      },
+      {
+        "OrderDate": 43157,
+        "Region": "Central",
+        "Manager": "Timothy",
+        "SalesMan": "David",
+        "Item": "Cell Phone",
+        "Units": 27,
+        "Unit_price": 225,
+        "Sale_amt": 6075
+      },
+      {
+        "OrderDate": 43174,
+        "Region": "West",
+        "Manager": "Timothy",
+        "SalesMan": "Stephen",
+        "Item": "Television",
+        "Units": 56,
+        "Unit_price": 1198,
+        "Sale_amt": 67088
+      },
+      {
+        "OrderDate": 43191,
+        "Region": "East",
+        "Manager": "Martha",
+        "SalesMan": "Alexander",
+        "Item": "Home Theater",
+        "Units": 60,
+        "Unit_price": 500,
+        "Sale_amt": 30000
+      },
+      {
+        "OrderDate": 43208,
+        "Region": "Central",
+        "Manager": "Martha",
+        "SalesMan": "Steven",
+        "Item": "Television",
+        "Units": 75,
+        "Unit_price": 1198,
+        "Sale_amt": 89850
+      },
+      {
+        "OrderDate": 43225,
+        "Region": "Central",
+        "Manager": "Hermann",
+        "SalesMan": "Luis",
+        "Item": "Television",
+        "Units": 90,
+        "Unit_price": 1198,
+        "Sale_amt": 107820
+      },
+      {
+        "OrderDate": 43242,
+        "Region": "West",
+        "Manager": "Douglas",
+        "SalesMan": "Michael",
+        "Item": "Television",
+        "Units": 32,
+        "Unit_price": 1198,
+        "Sale_amt": 38336
+      },
+      {
+        "OrderDate": 43259,
+        "Region": "East",
+        "Manager": "Martha",
+        "SalesMan": "Alexander",
+        "Item": "Home Theater",
+        "Units": 60,
+        "Unit_price": 500,
+        "Sale_amt": 30000
+      },
+      {
+        "OrderDate": 43276,
+        "Region": "Central",
+        "Manager": "Hermann",
+        "SalesMan": "Sigal",
+        "Item": "Television",
+        "Units": 90,
+        "Unit_price": 1198,
+        "Sale_amt": 107820
+      },
+      {
+        "OrderDate": 43293,
+        "Region": "East",
+        "Manager": "Martha",
+        "SalesMan": "Diana",
+        "Item": "Home Theater",
+        "Units": 29,
+        "Unit_price": 500,
+        "Sale_amt": 14500
+      },
+      {
+        "OrderDate": 43310,
+        "Region": "East",
+        "Manager": "Douglas",
+        "SalesMan": "Karen",
+        "Item": "Home Theater",
+        "Units": 81,
+        "Unit_price": 500,
+        "Sale_amt": 40500
+      },
+      {
+        "OrderDate": 43327,
+        "Region": "East",
+        "Manager": "Martha",
+        "SalesMan": "Alexander",
+        "Item": "Television",
+        "Units": 35,
+        "Unit_price": 1198,
+        "Sale_amt": 41930
+      },
+      {
+        "OrderDate": 43344,
+        "Region": "Central",
+        "Manager": "Douglas",
+        "SalesMan": "John",
+        "Item": "Desk",
+        "Units": 2,
+        "Unit_price": 125,
+        "Sale_amt": 250
+      },
+      {
+        "OrderDate": 43361,
+        "Region": "East",
+        "Manager": "Martha",
+        "SalesMan": "Alexander",
+        "Item": "Video Games",
+        "Units": 16,
+        "Unit_price": 58.5,
+        "Sale_amt": 936
+      },
+      {
+        "OrderDate": 43378,
+        "Region": "Central",
+        "Manager": "Hermann",
+        "SalesMan": "Sigal",
+        "Item": "Home Theater",
+        "Units": 28,
+        "Unit_price": 500,
+        "Sale_amt": 14000
+      },
+      {
+        "OrderDate": 43395,
+        "Region": "East",
+        "Manager": "Martha",
+        "SalesMan": "Alexander",
+        "Item": "Cell Phone",
+        "Units": 64,
+        "Unit_price": 225,
+        "Sale_amt": 14400
+      },
+      {
+        "OrderDate": 43412,
+        "Region": "East",
+        "Manager": "Douglas",
+        "SalesMan": "Karen",
+        "Item": "Cell Phone",
+        "Units": 15,
+        "Unit_price": 225,
+        "Sale_amt": 3375
+      },
+      {
+        "OrderDate": 43429,
+        "Region": "Central",
+        "Manager": "Hermann",
+        "SalesMan": "Shelli",
+        "Item": "Video Games",
+        "Units": 96,
+        "Unit_price": 58.5,
+        "Sale_amt": 5616
+      },
+      {
+        "OrderDate": 43446,
+        "Region": "Central",
+        "Manager": "Douglas",
+        "SalesMan": "John",
+        "Item": "Television",
+        "Units": 67,
+        "Unit_price": 1198,
+        "Sale_amt": 80266
+      },
+      {
+        "OrderDate": 43463,
+        "Region": "East",
+        "Manager": "Douglas",
+        "SalesMan": "Karen",
+        "Item": "Video Games",
+        "Units": 74,
+        "Unit_price": 58.5,
+        "Sale_amt": 4329
+      },
+      {
+        "OrderDate": 43480,
+        "Region": "Central",
+        "Manager": "Timothy",
+        "SalesMan": "David",
+        "Item": "Home Theater",
+        "Units": 46,
+        "Unit_price": 500,
+        "Sale_amt": 23000
+      },
+      {
+        "OrderDate": 43497,
+        "Region": "Central",
+        "Manager": "Douglas",
+        "SalesMan": "John",
+        "Item": "Home Theater",
+        "Units": 87,
+        "Unit_price": 500,
+        "Sale_amt": 43500
+      },
+      {
+        "OrderDate": 43514,
+        "Region": "East",
+        "Manager": "Martha",
+        "SalesMan": "Alexander",
+        "Item": "Home Theater",
+        "Units": 4,
+        "Unit_price": 500,
+        "Sale_amt": 2000
+      },
+      {
+        "OrderDate": 43531,
+        "Region": "West",
+        "Manager": "Timothy",
+        "SalesMan": "Stephen",
+        "Item": "Home Theater",
+        "Units": 7,
+        "Unit_price": 500,
+        "Sale_amt": 3500
+      },
+      {
+        "OrderDate": 43548,
+        "Region": "Central",
+        "Manager": "Hermann",
+        "SalesMan": "Luis",
+        "Item": "Video Games",
+        "Units": 50,
+        "Unit_price": 58.5,
+        "Sale_amt": 2925
+      },
+      {
+        "OrderDate": 43565,
+        "Region": "Central",
+        "Manager": "Martha",
+        "SalesMan": "Steven",
+        "Item": "Television",
+        "Units": 66,
+        "Unit_price": 1198,
+        "Sale_amt": 79068
+      },
+      {
+        "OrderDate": 43582,
+        "Region": "East",
+        "Manager": "Martha",
+        "SalesMan": "Diana",
+        "Item": "Cell Phone",
+        "Units": 96,
+        "Unit_price": 225,
+        "Sale_amt": 21600
+      },
+      {
+        "OrderDate": 43599,
+        "Region": "Central",
+        "Manager": "Timothy",
+        "SalesMan": "David",
+        "Item": "Television",
+        "Units": 53,
+        "Unit_price": 1198,
+        "Sale_amt": 63494
+      },
+      {
+        "OrderDate": 43616,
+        "Region": "Central",
+        "Manager": "Timothy",
+        "SalesMan": "David",
+        "Item": "Home Theater",
+        "Units": 80,
+        "Unit_price": 500,
+        "Sale_amt": 40000
+      },
+      {
+        "OrderDate": 43633,
+        "Region": "Central",
+        "Manager": "Hermann",
+        "SalesMan": "Shelli",
+        "Item": "Desk",
+        "Units": 5,
+        "Unit_price": 125,
+        "Sale_amt": 625
+      },
+      {
+        "OrderDate": 43650,
+        "Region": "East",
+        "Manager": "Martha",
+        "SalesMan": "Alexander",
+        "Item": "Video Games",
+        "Units": 62,
+        "Unit_price": 58.5,
+        "Sale_amt": 3627
+      },
+      {
+        "OrderDate": 43667,
+        "Region": "Central",
+        "Manager": "Hermann",
+        "SalesMan": "Sigal",
+        "Item": "Video Games",
+        "Units": 55,
+        "Unit_price": 58.5,
+        "Sale_amt": 3217.5
+      },
+      {
+        "OrderDate": 43684,
+        "Region": "Central",
+        "Manager": "Hermann",
+        "SalesMan": "Shelli",
+        "Item": "Video Games",
+        "Units": 42,
+        "Unit_price": 58.5,
+        "Sale_amt": 2457
+      },
+      {
+        "OrderDate": 43701,
+        "Region": "West",
+        "Manager": "Timothy",
+        "SalesMan": "Stephen",
+        "Item": "Desk",
+        "Units": 3,
+        "Unit_price": 125,
+        "Sale_amt": 375
+      },
+      {
+        "OrderDate": 43718,
+        "Region": "Central",
+        "Manager": "Timothy",
+        "SalesMan": "David",
+        "Item": "Television",
+        "Units": 7,
+        "Unit_price": 1198,
+        "Sale_amt": 8386
+      },
+      {
+        "OrderDate": 43735,
+        "Region": "West",
+        "Manager": "Timothy",
+        "SalesMan": "Stephen",
+        "Item": "Cell Phone",
+        "Units": 76,
+        "Unit_price": 225,
+        "Sale_amt": 17100
+      },
+      {
+        "OrderDate": 43752,
+        "Region": "West",
+        "Manager": "Douglas",
+        "SalesMan": "Michael",
+        "Item": "Home Theater",
+        "Units": 57,
+        "Unit_price": 500,
+        "Sale_amt": 28500
+      },
+      {
+        "OrderDate": 43769,
+        "Region": "Central",
+        "Manager": "Martha",
+        "SalesMan": "Steven",
+        "Item": "Television",
+        "Units": 14,
+        "Unit_price": 1198,
+        "Sale_amt": 16772
+      },
+      {
+        "OrderDate": 43786,
+        "Region": "Central",
+        "Manager": "Hermann",
+        "SalesMan": "Luis",
+        "Item": "Home Theater",
+        "Units": 11,
+        "Unit_price": 500,
+        "Sale_amt": 5500
+      },
+      {
+        "OrderDate": 43803,
+        "Region": "Central",
+        "Manager": "Hermann",
+        "SalesMan": "Luis",
+        "Item": "Home Theater",
+        "Units": 94,
+        "Unit_price": 500,
+        "Sale_amt": 47000
+      },
+      {
+        "OrderDate": 43820,
+        "Region": "Central",
+        "Manager": "Martha",
+        "SalesMan": "Steven",
+        "Item": "Home Theater",
+        "Units": 28,
+        "Unit_price": 500,
+        "Sale_amt": 14000
+      }
     ]
-}
+  }
